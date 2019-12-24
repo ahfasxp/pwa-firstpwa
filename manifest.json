@@ -1,0 +1,16 @@
+{
+    "name": "MyCode",
+    "short_name": "MyCode",
+    "description": "Mari Belajar Coding",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#2196f3",
+    "theme_color": "#2196f3",
+    "icons": [
+        {
+            "src": "home.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
